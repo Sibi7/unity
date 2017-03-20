@@ -1,5 +1,5 @@
 {
-  "name": "fast-start-master",
+  "name": "unity",
   "version": "1.0.0",
   "description": "Набор включенных технологий: HTML, CSS, JS, Gulp, SCSS, PostCSS, JQuery, Bower",
   "main": "gulpfile.js",
@@ -41,6 +41,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sibi7/unity.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sibi7/unity/issues"
+  },
+  "homepage": "https://github.com/Sibi7/unity#readme"
 }
