@@ -3,7 +3,11 @@
   position: relative;
   width: 100%;
   float: left;
-  background: #0e0d16;
+  background-color: #0e0d16;
+  background-image: url('../img/header-bg.png');
+  background-repeat: no-repeat;
+  background-size:contain;
+  
   &__logo{
     display: block;
     position: relative;
@@ -17,5 +21,30 @@
       height: 100%;
       object-fit: contain;
     }
+  }
+  nav{
+    float: right;
+    display: block;
+    list-style: none;
+    margin-top: 24px;
+    width: 359px;
+    li{
+      float: left;
+    }
+      a{
+        color: #fff;
+        display: block;
+        position: relative;
+        width: 100%;
+        font-size: 16px;
+        text-transform: uppercase;
+        text-align: center;
+        font-family: $RobotoLight;
+        padding-top: 0;
+        padding-bottom:0;
+        padding-left: 14px;
+        padding-right: 14px;
+        @include box-sizing(border-box);
+      }
   }
 }

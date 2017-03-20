@@ -3,9 +3,19 @@ $LatoRegular: 'Lato Regular';
 $LatoLight: 'Lato light';
 $LatoHeavy: 'Lato Heavy';
 $LatoBlack: 'Lato Black';
+$RobotoLight: 'Roboto Light';
 
 
 
+@font-face {
+  font-family: 'Roboto Light';
+  src: url('../fonts/Roboto/RobotoLight.eot') format('embedded-opentype'),
+  url('../fonts/Roboto/RobotoLight.woff2') format('woff2'),
+  url('../fonts/Roboto/RobotoLight.woff') format('woff'),
+  url('../fonts/Roboto/RobotoLight.ttf') format('truetype'),
+  url('../fonts/Roboto/RobotoLight.svg') format('svg');
+  font-weight: normal;
+}
 
 @font-face {
   font-family: 'Lato Black';

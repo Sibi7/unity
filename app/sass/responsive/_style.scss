@@ -14,8 +14,29 @@
 	
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 670px) {
 	
+}
+@media only screen and (max-width: 568px) {
+  .top-banner h1 {
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+  }
+  .top-banner h1 span {
+    font-size: 46px;
+  }
+  .top-banner p{
+    text-align: center;
+  }
+  .unity-btn {
+    width: 100%;
+  }
+
+  .top-banner__scroll img {
+   display: none;
+  }
+
 }
 
 @media only screen and (max-width: 320px) {

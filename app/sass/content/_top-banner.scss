@@ -1,0 +1,53 @@
+.top-banner {
+  display: block;
+  float: left;
+  width: 100%;
+  background-color: #0e0d16;
+  background-image: url('../img/topbanner-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  h1 {
+    display: block;
+    width: 100%;
+    margin-top: 100px;
+    float: left;
+    position: relative;
+    color: #fff;
+    font-size: 36px;
+    line-height: 50px;
+    font-family: $LatoBold;
+    span {
+      font-size: 46px;
+      color: #f17923;
+      font-family: $LatoBlack;
+    }
+  }
+  p {
+    color: #fff;
+    font-size: 18px;
+    font-family: $LatoLight;
+    opacity: 0.7;
+    line-height: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .unity-btn {
+    margin-bottom: 50px;
+    margin-right: calc(100% - 375px);
+  }
+  &__scroll{
+    display: block;
+    position: relative;
+    float: left;
+    width: 16px;
+    height: 167px;
+    overflow: hidden;
+    margin-left: calc(50% - (16px/2));
+    img{
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+
+  }
+}
