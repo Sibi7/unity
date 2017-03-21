@@ -46,5 +46,15 @@
         padding-right: 14px;
         @include box-sizing(border-box);
       }
+    .sandwich{
+      display: block;
+      position: relative;
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      background-color: #16151e;
+      float: right;
+      top: 0;
+    }
   }
 }
