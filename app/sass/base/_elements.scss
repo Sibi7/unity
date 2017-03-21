@@ -18,8 +18,12 @@ h2{
   font-size: 36px;
   text-align: center;
   color: #fff;
+
   span{
     color: #f18923;
     font-family: $LatoBold;
+    background: linear-gradient(-79deg, #f14e23 0%, #f18923 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 }

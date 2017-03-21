@@ -2,10 +2,13 @@
   display: block;
   float: left;
   width: 100%;
-  background-color: #0e0d16;
-  background-image: url('../img/topbanner-bg.png');
-  background-repeat: no-repeat;
-  background-size: cover;
+  .top-banner-right-img{
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 50%;
+  }
   h1 {
     display: block;
     width: 100%;
@@ -18,7 +21,9 @@
     font-family: $LatoBold;
     span {
       font-size: 46px;
-      color: #f17923;
+      background: linear-gradient(-79deg, #f14e23 0%, #f18923 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
       font-family: $LatoBlack;
     }
   }
@@ -49,5 +54,7 @@
       object-fit: contain;
     }
 
+
   }
+
 }

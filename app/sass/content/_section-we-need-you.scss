@@ -3,7 +3,6 @@
   width: 100%;
   display: block;
   float: left;
-  background: #12141f;
   h2{
     text-transform: uppercase;
   }
@@ -16,7 +15,7 @@
     margin-bottom:0;
   }
   .wrapper{
-    margin-top: 60px;
+    margin-top: 65px;
     display: block;
     float: left;
     position: relative;
@@ -36,6 +35,10 @@
         background-image: url("../img/icons/company-logo.png");
         background-size: cover;
         background-repeat: no-repeat;
+      }
+      p{
+        font-family: $LatoLight;
+        font-size: 18px;
       }
     }
 
