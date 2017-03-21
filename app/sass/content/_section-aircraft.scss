@@ -1,0 +1,20 @@
+.section-aircraft{
+  display: block;
+  float: left;
+  position: relative;
+  width: 100%;
+  background: #12141f;
+  h2{
+    margin-top: 150px;
+  }
+  p{
+    color: #fff;
+    text-align: center;
+    font-family: $LatoRegular;
+    font-size: 18px;
+  }
+  .unity-btn{
+    margin: 53px auto 163px auto;
+  }
+}
+
