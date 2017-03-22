@@ -1,13 +1,16 @@
-.your-ticket{
+.two-month{
+  position: relative;
   display: block;
   float: left;
-  position: relative;
   width: 100%;
-    p{
-      color: #dbdbdb;
-      font-size: 18px;
-      text-align: center;
-      font-family: $LatoLight;
+  h2{
+    text-transform: uppercase;
+  }
+  p{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-family: $LatoRegular;
   }
   .wrapper{
     margin-top: 70px;
@@ -21,7 +24,6 @@
       float: left;
       position: relative;
       .item{
-        margin-bottom: 20px;
         width: 165px;
         height: 165px;
         border-radius: 50%;
@@ -49,44 +51,8 @@
         font-size: 16px;
         font-family: $LatoLight;
         margin-bottom: 100px;
+        color: #fff;
       }
     }
   }
-  blockquote{
-    text-align: center;
-    color: #fff;
-    font-size: 30px;
-    font-family: $LatoRegular;
-    span{
-      display: inline-block;
-      margin-bottom: 40px;
-    }
-
-  }
-  .your__ticket--article{
-    margin-top: 130px;
-    text-align: center;
-    font-family: $LatoRegular;
-    height: 559px;
-    width: 400px;
-    float: left;
-    background-image: url("../img/waves-bg.png");
-    background-size: cover;
-    z-index: 1;
-    p{
-      padding: 50px;
-      padding-bottom: 0;
-      font-size: 18px;
-      line-height: 26px;
-    }
-  }
-  .img-plane{
-    position: absolute;
-    width: 260px;
-    height: 230px;
-    top: 665px;
-    right: -160px;
-
-  }
 }
-

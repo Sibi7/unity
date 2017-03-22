@@ -1,0 +1,47 @@
+.unity-vs-uber {
+  position: relative;
+  float: left;
+  display: block;
+  width: 100%;
+  h2 {
+    margin-top: 120px;
+  }
+  p {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 60px;
+    font-family: $LatoRegular;
+  }
+  .wrapper{
+    .unity-item-block{
+      width: 308px;
+      height: 409px;
+      border: 1px solid #262626;
+      border-radius: 5px;
+      float: left;
+      position: relative;
+      h3{
+        font-size: 30px;
+      }
+
+    }
+    .unity-item-block-middle{
+      float: left;
+      display: block;
+      position: relative;
+      width: 33.3%;
+      .item{
+        width: 308px;
+        height: 459px;
+        color: #fff;
+        background-color: #121524;
+        background-image: linear-gradient(-27deg, #f14e23 0%, #f18923 100%);
+        border-radius: 5px;
+        box-shadow: 10.2px 6.4px 9px rgba(0, 0, 0, 0.27);
+        position: relative;
+        top: -25px;
+      }
+    }
+  }
+}

@@ -2,27 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99981da-9829-4ecd-9889-b175abd76fe6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bodybg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/topbanner-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg-2_tmp24687" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg-ticket_tmp8737" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bodybg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bodybg_tmp19180" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/topbanner-bg.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/plane-bg.png" afterPath="$PROJECT_DIR$/app/img/plane-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/plane-bg.png" afterPath="$PROJECT_DIR$/img/plane-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/html/course-account.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/html/developer-section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/html/section-fewer-people.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/html/unity-vs-uber.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/html/video-section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/content/_course-account.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/content/_developer-section.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/content/_section-fewer-people.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/content/_two-month.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/content/_unity-vs-uber.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/content/_video-section.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/html/header.html" afterPath="$PROJECT_DIR$/app/html/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/html/section-we-need-you.html" afterPath="$PROJECT_DIR$/app/html/section-we-need-you.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/html/top-banner.html" afterPath="$PROJECT_DIR$/app/html/top-banner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/base/_base.scss" afterPath="$PROJECT_DIR$/app/sass/base/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/base/_elements.scss" afterPath="$PROJECT_DIR$/app/sass/base/_elements.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/content/_section-aircraft.scss" afterPath="$PROJECT_DIR$/app/sass/content/_section-aircraft.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/content/_section-we-need-you.scss" afterPath="$PROJECT_DIR$/app/sass/content/_section-we-need-you.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/content/_sections-doubt.scss" afterPath="$PROJECT_DIR$/app/sass/content/_sections-doubt.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/content/_top-banner.scss" afterPath="$PROJECT_DIR$/app/sass/content/_top-banner.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/html/footer.html" afterPath="$PROJECT_DIR$/app/html/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/html/pages/index.html" afterPath="$PROJECT_DIR$/app/html/pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/content/_style.scss" afterPath="$PROJECT_DIR$/app/sass/content/_style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/content/_your-ticket.scss" afterPath="$PROJECT_DIR$/app/sass/content/_your-ticket.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/header/_head.scss" afterPath="$PROJECT_DIR$/app/sass/header/_head.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/footer/_style.scss" afterPath="$PROJECT_DIR$/app/sass/footer/_style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/libs/_fonts.scss" afterPath="$PROJECT_DIR$/app/sass/libs/_fonts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/libs.min.css" afterPath="$PROJECT_DIR$/css/libs.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.min.css" afterPath="$PROJECT_DIR$/css/styles.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -50,103 +48,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="_top-banner.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/content/_top-banner.scss">
+      <file leaf-file-name="_fonts.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/libs/_fonts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="32">
+              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top-banner.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/html/top-banner.html">
+      <file leaf-file-name="section-fewer-people.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/html/section-fewer-people.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="320">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/html/header.html">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/html/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="46" />
+            <state relative-caret-position="1088">
+              <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_head.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/sass/header/_head.scss">
+      <file leaf-file-name="_section-fewer-people.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/content/_section-fewer-people.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-              <folding>
-                <marker date="1490128244694" expanded="true" signature="79:81" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_elements.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/base/_elements.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="512">
+              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_section-aircraft.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/content/_section-aircraft.scss">
+      <file leaf-file-name="_style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/footer/_style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_section-we-need-you.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/content/_section-we-need-you.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-830">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_sections-doubt.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/content/_sections-doubt.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/base/_base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_your-ticket.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/content/_your-ticket.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="29" column="27" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="738">
+              <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -177,7 +123,6 @@
         <option value="$PROJECT_DIR$/app/html/html_open.html" />
         <option value="$PROJECT_DIR$/app/html/html_close.html" />
         <option value="$PROJECT_DIR$/app/sass/base/_grid.scss" />
-        <option value="$PROJECT_DIR$/app/sass/libs/_fonts.scss" />
         <option value="$PROJECT_DIR$/app/html/top-baner.html" />
         <option value="$PROJECT_DIR$/css/styles.min.css" />
         <option value="$PROJECT_DIR$/app/sass/responsive/_style.scss" />
@@ -188,20 +133,36 @@
         <option value="$PROJECT_DIR$/app/js/script.js" />
         <option value="$PROJECT_DIR$/app/html/sections-doubt.html" />
         <option value="$PROJECT_DIR$/app/html/pages/We-need-you.html" />
-        <option value="$PROJECT_DIR$/app/html/pages/index.html" />
-        <option value="$PROJECT_DIR$/app/sass/content/_style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/html/section-we-need-you.html" />
         <option value="$PROJECT_DIR$/app/sass/content/_sections-doubt.scss" />
         <option value="$PROJECT_DIR$/app/sass/content/_section-we-need-you.scss" />
         <option value="$PROJECT_DIR$/app/sass/content/_section-aircraft.scss" />
         <option value="$PROJECT_DIR$/app/sass/base/_base.scss" />
-        <option value="$PROJECT_DIR$/app/sass/content/_your-ticket.scss" />
         <option value="$PROJECT_DIR$/app/sass/base/_elements.scss" />
         <option value="$PROJECT_DIR$/app/sass/content/_top-banner.scss" />
         <option value="$PROJECT_DIR$/app/html/top-banner.html" />
         <option value="$PROJECT_DIR$/app/html/header.html" />
         <option value="$PROJECT_DIR$/app/sass/header/_head.scss" />
+        <option value="$PROJECT_DIR$/app/html/pages/two-month.html" />
+        <option value="$PROJECT_DIR$/app/html/two-month.html" />
+        <option value="$PROJECT_DIR$/app/html/course-account.html" />
+        <option value="$PROJECT_DIR$/app/sass/content/_your-ticket.scss" />
+        <option value="$PROJECT_DIR$/app/sass/content/_course-account.scss" />
+        <option value="$PROJECT_DIR$/app/sass/content/_two-month.scss" />
+        <option value="$PROJECT_DIR$/app/html/unity-vs-uber.html" />
+        <option value="$PROJECT_DIR$/app/sass/libs/_fonts.scss" />
+        <option value="$PROJECT_DIR$/app/sass/content/_unity-vs-uber.scss" />
+        <option value="$PROJECT_DIR$/app/html/video-section.html" />
+        <option value="$PROJECT_DIR$/app/sass/content/_video-section.scss" />
+        <option value="$PROJECT_DIR$/app/html/developer-section.html" />
+        <option value="$PROJECT_DIR$/app/sass/content/_developer-section.scss" />
+        <option value="$PROJECT_DIR$/app/sass/content/_style.scss" />
+        <option value="$PROJECT_DIR$/app/html/pages/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/content/_section-fewer-people.scss" />
+        <option value="$PROJECT_DIR$/app/html/section-fewer-people.html" />
+        <option value="$PROJECT_DIR$/app/html/footer.html" />
+        <option value="$PROJECT_DIR$/app/sass/footer/_style.scss" />
       </list>
     </option>
   </component>
@@ -236,8 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -260,20 +219,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unity" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -300,7 +245,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="footer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,6 +341,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,13 +355,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\openserver\domains\unity\app\html\pages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\openserver\domains\unity\app\img" />
       <recent name="C:\openserver\domains\unity\fonts" />
       <recent name="C:\openserver\domains\unity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\openserver\domains\unity\app\html\pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -473,12 +438,13 @@
       <workItem from="1490018856997" duration="917000" />
       <workItem from="1490078543208" duration="242000" />
       <workItem from="1490078846033" duration="24244000" />
-      <workItem from="1490112393096" duration="11539000" />
+      <workItem from="1490112393096" duration="12127000" />
+      <workItem from="1490168668591" duration="20889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56225000" />
+    <option name="totallyTimeSpent" value="77702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,9 +457,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27121374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27497315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -542,164 +508,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/sass/base/_elements.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/base/_elements.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="165" column="28" lean-forward="false" selection-start-line="165" selection-start-column="28" selection-end-line="165" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/html/html_close.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/libs/_style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/libs/_png-sprite.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/topbanner-bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/footer/_style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/base/_grid.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/base/_style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/responsive/_style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/html/html_open.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="69" lean-forward="true" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/libs.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/waves-bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/html/pages/section-aircraft.html" />
     <entry file="file://$PROJECT_DIR$/app/sass/content/sections-doubt.html" />
     <entry file="file://$PROJECT_DIR$/app/html/section-aircraft.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/html/your-ticket.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -719,80 +533,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/html/pages/We-need-you.html" />
     <entry file="file://$PROJECT_DIR$/section-aircraft.html" />
-    <entry file="file://$PROJECT_DIR$/app/html/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/libs/_fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/html/section-we-need-you.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1792">
           <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/content/_style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/content/_index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/topbanner-bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bodybg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/bodybg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/topbanner-bg.png" />
+    <entry file="file://$PROJECT_DIR$/img/bodybg.png" />
+    <entry file="file://$PROJECT_DIR$/app/img/bodybg.png" />
     <entry file="file://$PROJECT_DIR$/app/sass/base/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
+        <state relative-caret-position="416">
           <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1834">
-          <caret line="210" column="18" lean-forward="false" selection-start-line="210" selection-start-column="18" selection-end-line="210" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -807,14 +561,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/content/_top-banner.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/html/top-banner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -823,18 +569,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/content/_your-ticket.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="29" column="27" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/content/_sections-doubt.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/pages/two-month.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -857,27 +611,245 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/base/_elements.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="768">
           <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/html/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/header/_head.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="1824">
           <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
           <folding>
             <marker date="1490128244694" expanded="true" signature="79:81" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_top-banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/icons/c-plus.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icons/C++.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6240">
+          <caret line="210" column="18" lean-forward="false" selection-start-line="210" selection-start-column="18" selection-end-line="210" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_two-month.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_course-account.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/course-account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/two-month.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_unity-vs-uber.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/video-section.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_video-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/unity-vs-uber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/your-ticket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="38" column="76" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_your-ticket.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="59" column="2" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_fewer-people.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_developer-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/developer-section.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/footer/.sassbuilder-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/section-fewer-people.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/libs/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/content/_section-fewer-people.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/footer/_style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/html/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>

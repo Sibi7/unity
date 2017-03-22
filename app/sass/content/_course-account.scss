@@ -1,0 +1,57 @@
+.course-account {
+  position: relative;
+  display: block;
+  float: left;
+  width: 100%;
+  h2 {
+    text-transform: uppercase;
+    margin-bottom: 65px;
+  }
+  .wrapper {
+    float: left;
+    display: block;
+    position: relative;
+    width: 100%;
+    .wrapper-item{
+      text-align: center;
+      width: 33.3%;
+      float: left;
+      position: relative;
+      .item {
+        height: 395px;
+        width: 300px;
+        border-radius: 5px;
+        float: left;
+        position: relative;
+        background-image: url("../img/course-item-bg.png");
+        background-repeat:no-repeat;
+        background-size:cover;
+        h4 {
+          background: linear-gradient(-79deg, #f14e23 0%, #f18923 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          font-size: 22px;
+          font-family: $LatoBlack;
+        }
+        p{
+          color: #fff;
+          font-family: $LatoRegular;
+          font-size: 16px;
+          margin-top: 40px;
+          padding: 0 15px;
+        }
+      }
+      .item-bg{
+        background-image: url("../img/course-item-bg2.png");
+        background-repeat:no-repeat;
+        background-size:cover;
+      }
+      .item-bg2{
+        background-image: url("../img/course-item-bg3.png");
+        background-repeat:no-repeat;
+        background-size:cover;
+      }
+    }
+
+  }
+}

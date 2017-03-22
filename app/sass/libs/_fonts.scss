@@ -3,7 +3,9 @@ $LatoRegular: 'Lato Regular';
 $LatoLight: 'Lato light';
 $LatoHeavy: 'Lato Heavy';
 $LatoBlack: 'Lato Black';
+$LatoSemibold: 'Lato Semibold';
 $RobotoLight: 'Roboto Light';
+
 
 
 
@@ -67,6 +69,15 @@ $RobotoLight: 'Roboto Light';
   url('../fonts/Lato/LatoRegular.woff') format('woff'),
   url('../fonts/Lato/LatoRegular.ttf') format('truetype'),
   url('../fonts/Lato/LatoRegular.svg') format('svg');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Lato Semibold';
+  src: url('../fonts/Lato/LatoSemibold.eot') format('embedded-opentype'),
+  url('../fonts/Lato/LatoSemibold.woff2') format('woff2'),
+  url('../fonts/Lato/LatoSemibold.woff') format('woff'),
+  url('../fonts/Lato/LatoSemibold.ttf') format('truetype'),
+  url('../fonts/Lato/LatoSemibold.svg') format('svg');
   font-weight: normal;
 }
 
