@@ -15,7 +15,125 @@
 }
 
 @media only screen and (max-width: 670px) {
-	
+
+  .header .top-banner-right-img {
+    display: none;
+  }
+  .top-banner__scroll {
+    display: none;
+  }
+  .top-banner h1 {
+    display: block;
+    width: 100%;
+    margin-top: 0;
+  }
+
+	.header__logo{
+      width: 82px;
+      height: 57px;
+      margin-top: 28px;
+      margin-left: calc(50% - (82px/2));
+    }
+  .your-ticket h2{
+    margin: 0;
+  }
+  .your-ticket .wrapper .wrapper-item {
+    width: 100%;
+  }
+  .your-ticket .your__ticket--article {
+    width: 100%;
+    margin-top: 60px;
+  }
+  .your-ticket .your__ticket--article p {
+    padding: 0;
+    margin-top: 50px;
+  }
+  .section-aircraft h2 {
+    margin-top: 60px;
+    font-size: 25px;
+  }
+  .section-aircraft .unity-btn {
+    margin: 15px 0 0 0;
+  }
+  .sections-doubt h2 {
+    margin: 60px 0 0 0;
+  }
+  .sections-doubt .canvas-wrap {
+    float: none;
+    margin: 0 auto;
+    display: block;
+  }
+  .sections-doubt .wrapper {
+    margin-bottom: 0;
+  }
+  .section-we-need-you .wrapper .item-wrapper {
+    width: 33.333%;
+  }
+  .two-month h2{
+    margin: 60px 0 0 0;
+  }
+  .two-month .wrapper{
+    margin-top: 0;
+  }
+  .two-month .wrapper .wrapper-item {
+    width: 100%;
+  }
+  .two-month .wrapper .wrapper-item p{
+    margin-bottom: 0;
+  }
+  .course-account h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .course-account .wrapper .wrapper-item {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .course-account .wrapper .wrapper-item .item {
+    width: 100%;
+  }
+  .img-plane{
+    display: none;
+  }
+  .unity-vs-uber p {
+    margin-bottom: 0;
+  }
+  .unity-vs-uber h2 {
+    margin: 60px 0 0 0;
+  }
+  .unity-vs-uber .wrapper .unity-vs-uber {
+    width: 100%;
+    margin: 0;
+    margin-top: 20px;
+  }
+  .unity-vs-uber .wrapper .unity-5-vs-uber {
+    width: 100%;
+    position: relative;
+    margin: 20px 0;
+  }
+  .video-section h2{
+    margin-top: 30px;
+  }
+  .developer-section .unity-btn {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+.section-fewer-people p {
+  width: 100%;
+}
+.section-fewer-people .unity-btn {
+  margin: 43px auto 0;
+  width: 100%;
+}
+footer p {
+  width: 100%;
+  margin-bottom: 60px;
+}
+footer .social-wrap {
+  width: 100%;
+  line-height: 60px;
+  margin-bottom: 20px;
 }
 @media only screen and (max-width: 568px) {
   .top-banner h1 {
