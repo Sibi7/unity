@@ -94,10 +94,10 @@
   }
   .img-plane{
     position: absolute;
-    width: 260px;
     height: 230px;
-    top: 665px;
-    right: -160px;
+    top: 1079px;
+    z-index: -2;
+    right: 0;
 
   }
 }
