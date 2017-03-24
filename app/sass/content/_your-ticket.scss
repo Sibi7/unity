@@ -79,6 +79,18 @@
       font-size: 18px;
       line-height: 26px;
     }
+    .img-molnia{
+      position: absolute;
+      z-index: -1;
+      top: 576px;
+      left: -264px;
+      width: 125%;
+      overflow: hidden;
+      img{
+        overflow: hidden;
+        height: 1200px;
+      }
+    }
   }
   .img-plane{
     position: absolute;
