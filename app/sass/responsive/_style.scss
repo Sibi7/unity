@@ -1,17 +1,174 @@
 @media only screen and (max-width: 1024px) {
-	
+
 }
 
 @media only screen and (max-width: 980px) {
-	
+  // section header
+  .header .top-banner-right-img {
+    display: none;
+  }
+  //  end section header
+
+  //section top-banner
+
+  .top-banner h1 {
+    text-align: center;
+  }
+
+  .top-banner p {
+    text-align: center;
+  }
+
+  .top-banner .unity-btn {
+    margin: 0 auto 50px auto !important;
+    margin-right: none;
+  }
+  //end section top-banner
+  //section your-ticket
+
+  .your-ticket .your__ticket--article .img-molnia {
+    display: none;
+  }
+  .your-ticket .img-plane {
+    display: none;
+  }
+
+  .your-ticket .your__ticket--article {
+    margin: 50px auto 0 auto;
+    float: none;
+  }
+  //end section your-ticket
+
+  // sections-doubt
+  .sections-doubt .canvas-wrap {
+    margin: 0 auto;
+    float: none;
+  }
+  //end sections-doubt
+
+  //section-aircraft
+
+  .section-aircraft .unity-btn {
+    margin: 53px auto 0;
+  }
+
+  //end section-aircraft
+  .section-we-need-you h2 {
+    margin-top: 0;
+  }
+  //section course-account
+  .course-account .wrapper .wrapper-item {
+    text-align: center;
+    width: 100%;
+    float: left;
+    position: relative;
+  }
+
+  .course-account .wrapper .wrapper-item .item {
+    float: none;
+    margin: 0px auto;
+  }
+
+  .course-account .wrapper .wrapper-item .item h4 {
+    padding-top: 20px;
+  }
+
+  // end section course-account
+  // section unity-vs-uber
+  .unity-vs-uber .wrapper .unity-vs-uber h4 {
+    text-align: center;
+    font-size: 37px;
+    margin: 0;
+    margin-top: 40px;
+  }
+  // end section unity-vs-uber
 }
 
 @media only screen and (max-width: 770px) {
-	
+  // section header
+  .header .top-banner-right-img {
+    display: none;
+  }
+  //  end section header
+
+  //section top-banner
+
+  .top-banner h1 {
+    text-align: center;
+  }
+
+  .top-banner p {
+    text-align: center;
+  }
+
+  .top-banner .unity-btn {
+    margin: 0 auto 50px auto !important;
+    margin-right: none;
+  }
+  //end section top-banner
+  //section your-ticket
+
+  .your-ticket .your__ticket--article .img-molnia {
+    display: none;
+  }
+  .your-ticket .img-plane {
+    display: none;
+  }
+
+  .your-ticket .your__ticket--article {
+    margin: 50px auto 0 auto;
+    float: none;
+  }
+  //end section your-ticket
+
+  // sections-doubt
+  .sections-doubt .canvas-wrap {
+    margin: 0 auto;
+    float: none;
+  }
+  //end sections-doubt
+
+  //section-aircraft
+
+  .section-aircraft .unity-btn {
+    margin: 53px auto 0;
+  }
+
+  //end section-aircraft
+  .section-we-need-you h2 {
+    margin-top: 0;
+  }
+  //section course-account
+  .course-account .wrapper .wrapper-item {
+    text-align: center;
+    width: 100%;
+    float: left;
+    position: relative;
+  }
+
+  .course-account .wrapper .wrapper-item .item {
+    float: none;
+    margin: 0px auto;
+  }
+
+  .course-account .wrapper .wrapper-item .item h4 {
+    padding-top: 20px;
+  }
+
+  // end section course-account
+  // section unity-vs-uber
+  .unity-vs-uber .wrapper .unity-vs-uber h4 {
+    text-align: center;
+    font-size: 37px;
+    margin: 0;
+    margin-top: 40px;
+  }
+  // end section unity-vs-uber
+
 }
 
 @media only screen and (max-width: 736px) {
-	
+
 }
 
 @media only screen and (max-width: 670px) {
@@ -28,13 +185,13 @@
     margin-top: 0;
   }
 
-	.header__logo{
-      width: 82px;
-      height: 57px;
-      margin-top: 28px;
-      margin-left: calc(50% - (82px/2));
-    }
-  .your-ticket h2{
+  .header__logo {
+    width: 82px;
+    height: 57px;
+    margin-top: 28px;
+    margin-left: calc(50% - (82px / 2));
+  }
+  .your-ticket h2 {
     margin: 0;
   }
   .your-ticket .wrapper .wrapper-item {
@@ -72,16 +229,16 @@
   .section-we-need-you .wrapper .item-wrapper {
     width: 50%;
   }
-  .two-month h2{
+  .two-month h2 {
     margin: 60px 0 0 0;
   }
-  .two-month .wrapper{
+  .two-month .wrapper {
     margin-top: 0;
   }
   .two-month .wrapper .wrapper-item {
     width: 100%;
   }
-  .two-month .wrapper .wrapper-item p{
+  .two-month .wrapper .wrapper-item p {
     margin-bottom: 0;
   }
   .course-account h2 {
@@ -95,7 +252,7 @@
   .course-account .wrapper .wrapper-item .item {
     width: 100%;
   }
-  .img-plane{
+  .img-plane {
     display: none;
   }
   .unity-vs-uber p {
@@ -114,7 +271,7 @@
     position: relative;
     margin: 20px 0;
   }
-  .video-section h2{
+  .video-section h2 {
     margin-top: 30px;
   }
   .developer-section .unity-btn {
@@ -123,22 +280,23 @@
   }
   .section-fewer-people .unity-btn {
     margin: 43px auto 0;
-    width: 100%!important;
+    width: 100% !important;
+  }
+  .section-fewer-people p {
+    width: 100%;
+  }
+
+  footer p {
+    width: 100%;
+    margin-bottom: 60px;
+  }
+  footer .social-wrap {
+    width: 100%;
+    line-height: 60px;
+    margin-bottom: 20px;
   }
 }
-.section-fewer-people p {
-  width: 100%;
-}
 
-footer p {
-  width: 100%;
-  margin-bottom: 60px;
-}
-footer .social-wrap {
-  width: 100%;
-  line-height: 60px;
-  margin-bottom: 20px;
-}
 @media only screen and (max-width: 568px) {
   .top-banner h1 {
     font-size: 25px;
@@ -148,7 +306,7 @@ footer .social-wrap {
   .top-banner h1 span {
     font-size: 46px;
   }
-  .top-banner p{
+  .top-banner p {
     text-align: center;
   }
   .unity-btn {
@@ -156,11 +314,11 @@ footer .social-wrap {
   }
 
   .top-banner__scroll img {
-   display: none;
+    display: none;
   }
 
 }
 
 @media only screen and (max-width: 320px) {
-	
+
 }
