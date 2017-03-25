@@ -30,6 +30,10 @@ footer {
       display: inline-block;
       overflow: hidden;
       margin: 0 15px;
+      &:hover{
+        transition: 300ms ease;
+        transform: scale(1.08);
+      }
       img {
         height: 100%;
         width: 100%;

@@ -30,8 +30,9 @@
           background: linear-gradient(-79deg, #f14e23 0%, #f18923 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          font-size: 22px;
           font-family: $LatoBlack;
+          font-size: 20px;
+          text-transform: uppercase;
         }
         p{
           color: #fff;

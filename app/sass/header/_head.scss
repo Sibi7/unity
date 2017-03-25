@@ -56,6 +56,10 @@
         padding-left: 14px;
         padding-right: 14px;
         @include box-sizing(border-box);
+        &:hover{
+          transition: 300ms ease;
+          color: #f18923;
+        }
       }
     }
   }
