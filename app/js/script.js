@@ -1,4 +1,19 @@
 $(document).ready(function () {
+
+    var headerButton = $('.sandwich-button'), // обратился к объекту кнопка
+        headerNav = $('.header__nav'); // при загрузке документа нашел объект c classom
+    $(headerButton).on('click', function (event) { // повесил событие на объект .sandwich-button
+        event.preventDefault(); // убрал стандартное свойство ссылки
+        if($(this).hasClass('open')){ //  проверяет наличие класса у селектора .sandwich-button
+            $(this).removeClass('open'); // если есть ксласс, он удаляется при проверке
+            headerNav.slideUp(500); // скрываем вверх блок меню header.nav
+        } else {
+            $(this).addClass('open'); //иначе добавляется класс open
+            headerNav.slideDown(500);// и появляется блок меню
+        }
+    });
+
+
     $("#menu").on("click","a", function (event) {
         //отменяем стандартную обработку нажатия по ссылке
         event.preventDefault();
