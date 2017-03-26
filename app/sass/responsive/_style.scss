@@ -175,6 +175,10 @@
 }
 
 @media only screen and (max-width: 670px) {
+  .header .hamburger{
+    pointer-events: auto;
+    cursor: pointer;
+  }
   .unity-btn{
     font-size: 13px;
   }
@@ -185,12 +189,15 @@
   .header .top-banner-right-img {
     display: none;
   }
-  .header nav .sandwich-button {
-    pointer-events: auto;
-    cursor: pointer;
+  .header__navigation {
+    margin-top: 15px;
   }
   .header .sandwich-button {
     top: -74px;
+  }
+  .header__nav{
+    margin-top: 0;
+    margin-bottom: 15px;
   }
   .top-banner__scroll {
     display: none;
@@ -205,8 +212,7 @@
   .header__logo {
     width: 82px;
     height: 57px;
-    margin-top: 28px;
-    margin-left: calc(50% - (82px / 2));
+    margin-left: 20px;
   }
   .header__nav {
     width: 100%;

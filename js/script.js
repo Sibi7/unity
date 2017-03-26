@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var headerButton = $('.sandwich-button'), // обратился к объекту кнопка
+    var headerButton = $('.hamburger'), // обратился к объекту кнопка
         headerNav = $('.header__nav'); // при загрузке документа нашел объект c classom
     $(headerButton).on('click', function (event) { // повесил событие на объект .sandwich-button
         event.preventDefault(); // убрал стандартное свойство ссылки
